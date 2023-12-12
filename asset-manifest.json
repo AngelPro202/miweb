@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/miweb/static/css/main.b4a9977e.css",
+    "main.js": "/miweb/static/js/main.f93c3c7f.js",
+    "static/js/787.af16caba.chunk.js": "/miweb/static/js/787.af16caba.chunk.js",
+    "static/media/logo1.jpg": "/miweb/static/media/logo1.10ae4631e447b3272e6e.jpg",
+    "static/media/Carrucel2.jpg": "/miweb/static/media/Carrucel2.dc3c00df8279fe13fffd.jpg",
+    "static/media/Carrucel3.jpg": "/miweb/static/media/Carrucel3.873394d2b7ddf26eb99e.jpg",
+    "static/media/Carrucel1.jpg": "/miweb/static/media/Carrucel1.a399fe85f7725d1269e3.jpg",
+    "static/media/logo2.jpg": "/miweb/static/media/logo2.696c8e42ca3e8d777b0d.jpg",
+    "static/media/libro3.jpg": "/miweb/static/media/libro3.1bedc8a3445dc5ceadfd.jpg",
+    "static/media/Evento7.jpg": "/miweb/static/media/Evento7.ab29a8fbbfd61ebea5a0.jpg",
+    "static/media/logo3.jpg": "/miweb/static/media/logo3.21fb97dc064174fa92f1.jpg",
+    "static/media/Evento10.jpg": "/miweb/static/media/Evento10.71d666e7bd8d5affcc7c.jpg",
+    "static/media/Evento9.jpg": "/miweb/static/media/Evento9.6d057be828b2f9f98b20.jpg",
+    "static/media/Evento8.jpg": "/miweb/static/media/Evento8.fbb8f002eb81b171cc0a.jpg",
+    "static/media/libro2.jpg": "/miweb/static/media/libro2.4ef84d45d40716f0f6e5.jpg",
+    "static/media/libro1.jpg": "/miweb/static/media/libro1.ed7009718f86abf5006c.jpg",
+    "static/media/libro5.jpg": "/miweb/static/media/libro5.073a7f030fc0f86ab824.jpg",
+    "static/media/des2.png": "/miweb/static/media/des2.af4015ff5da19bc03e8f.png",
+    "static/media/Evento5.jpg": "/miweb/static/media/Evento5.fcb6ff0ec67fc96514df.jpg",
+    "static/media/libro4.jpg": "/miweb/static/media/libro4.289074381db21aa3aae9.jpg",
+    "static/media/logo4.jpg": "/miweb/static/media/logo4.316a4d9fff506a1b10d5.jpg",
+    "static/media/Evento6.jpg": "/miweb/static/media/Evento6.db43e3a44fc35279ab2a.jpg",
+    "static/media/des3.png": "/miweb/static/media/des3.e3458aadedf23bee28c7.png",
+    "static/media/des.png": "/miweb/static/media/des.b3d123a8332e31232231.png",
+    "static/media/libro6.jpg": "/miweb/static/media/libro6.9d8379aa3679901ff03d.jpg",
+    "static/media/Evento2.jpg": "/miweb/static/media/Evento2.3f9230a7da6c492491c0.jpg",
+    "static/media/Evento3.jpg": "/miweb/static/media/Evento3.9b365af53f8e3f437645.jpg",
+    "static/media/Evento1.jpg": "/miweb/static/media/Evento1.bf45dbec9ca396964a1c.jpg",
+    "index.html": "/miweb/index.html",
+    "main.b4a9977e.css.map": "/miweb/static/css/main.b4a9977e.css.map",
+    "main.f93c3c7f.js.map": "/miweb/static/js/main.f93c3c7f.js.map",
+    "787.af16caba.chunk.js.map": "/miweb/static/js/787.af16caba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a9977e.css",
+    "static/js/main.f93c3c7f.js"
+  ]
+}
